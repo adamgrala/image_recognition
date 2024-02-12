@@ -1,2 +1,2 @@
-# image_recognition
-Manual and automatic object classification and recognition
+# Manual Object Classification App
+
